@@ -2,6 +2,8 @@
 
 Im Valerii, backend python developer from Saint-Petersburg. Check out my [latest project](https://github.com/HappyCthulhu/ext_load)!
 
+Founder of [HH-Mailer](https://stage.hhmailer.precise.dev)
+
 ## Favourite dev-libs
 * [pipenv](https://github.com/pypa/pipenv/)
 * [django-pghistory](https://github.com/AmbitionEng/django-pghistory)
