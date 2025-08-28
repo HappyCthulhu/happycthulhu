@@ -6,8 +6,6 @@ Founder of [HH-Mailer](https://hh-mailer.ru)
 
 ## GitHub Statistics
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=happycthulhu&theme=darkhub)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=happycthulhu&show_icons=true&theme=dark&count_private=true)
 ![GitHub followers](https://img.shields.io/github/followers/happycthulhu?style=social)
 
