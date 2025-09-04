@@ -4,11 +4,6 @@ Im Valerii, backend python developer from Saint-Petersburg. Check out my [latest
 
 Founder of [HH-Mailer](https://hh-mailer.ru)
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=happycthulhu&show_icons=true&theme=dark&count_private=true)
-![GitHub followers](https://img.shields.io/github/followers/happycthulhu?style=social)
-
 ## How to reach me
 * [➣ **Telegram**](t.me/@ScienceCool)
 * [✉️ **Email**](mailto:valeriyg@gmail.com)
