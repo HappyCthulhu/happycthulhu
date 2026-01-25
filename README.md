@@ -2,7 +2,7 @@
 
 Im Valerii, backend python developer from Saint-Petersburg. Check out my [latest project](https://github.com/HappyCthulhu/ext_load)!
 
-* [Template project](https://github.com/HappyCthulhu/django_template) 
+* [Django Template](https://github.com/HappyCthulhu/django_template) 
 * [Dotfiles](https://github.com/HappyCthulhu/.config/tree/master)
 * [Scripts](https://github.com/HappyCthulhu/scripts) 
 
