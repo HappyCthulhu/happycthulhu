@@ -8,6 +8,6 @@ Founder of [HH-Mailer](https://hh-mailer.ru)
 
 ## How to reach me
 * [➣ **Telegram**](t.me/@ScienceCool)
-* [✉️ **Email**](mailto:valeriyg@gmail.com)
+* ✉️ **Email**: valeriig@iusevimbtw.com
 * [🌐 **LinkedIn**](https://www.linkedin.com/in/valeriy-gazarov-83185b129/)
 * [💬 **WhatApp**](https://wa.me/qr/PO27LO4GNYWAD1)
