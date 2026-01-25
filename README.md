@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-Im Valerii, backend python developer from Saint-Petersburg. Check out my [latest project](https://github.com/HappyCthulhu/ext_load)!
+Im Valerii, backend python developer from Saint-Petersburg.
 
 ## Repos
+* [Ext Load](https://github.com/HappyCthulhu/ext_load)
 * [Django Template](https://github.com/HappyCthulhu/django_template) 
 * [Dotfiles](https://github.com/HappyCthulhu/.config/tree/master)
 * [Scripts](https://github.com/HappyCthulhu/scripts) 
