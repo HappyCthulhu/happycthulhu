@@ -6,7 +6,8 @@ Im Valerii, backend python developer from Saint-Petersburg.
 * [Ext Load](https://github.com/HappyCthulhu/ext_load)
 * [Django Template](https://github.com/HappyCthulhu/django_template) 
 * [Dotfiles](https://github.com/HappyCthulhu/.config/tree/master)
-* [Scripts](https://github.com/HappyCthulhu/scripts) 
+* [Scripts](https://github.com/HappyCthulhu/scripts)
+* [Ansible setup](https://github.com/HappyCthulhu/setup_servers)
 
 Founder of [HH-Mailer](https://hh-mailer.ru)
 
