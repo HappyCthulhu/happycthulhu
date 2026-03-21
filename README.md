@@ -4,6 +4,7 @@ Im Valerii, backend python developer from Saint-Petersburg.
 
 ## Repos
 * [Ext Load](https://github.com/HappyCthulhu/ext_load)
+* [Avatars AI Bot](https://github.com/HappyCthulhu/tg_bot_avatars)
 * [Django Template](https://github.com/HappyCthulhu/django_template)
 * [Ansible setup](https://github.com/HappyCthulhu/setup_servers) 
 * [Dotfiles](https://github.com/HappyCthulhu/.config/tree/master)
